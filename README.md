@@ -34,6 +34,11 @@ Run:
 pip install -r requirements.txt
 ```
 
+### Requirements
+The main dependencies are:
+
+- ```cryptography``` - Used for the Fernet symmetric encryption
+
 ## Contributing
 Contributions to add new features, enhance security, improve code quality are welcome!
 
