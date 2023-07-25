@@ -1,0 +1,7 @@
+cryptography>=3.2
+getpass
+hashlib
+os
+random
+string
+sys
