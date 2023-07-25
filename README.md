@@ -12,10 +12,10 @@ This is a secure password manager application written in Python. It allows you t
 
 ## Usage
 
-The password manager has an easy to use menu:
+The password manager has an easy-to-use menu:
 1. Set a master password, which is hashed and stored for verification.
 2. Choose to store a new password - you will be prompted for site/username/password. The password is encrypted before storing.
-3. Retrieve stored passwords - re-enter master password and decrypted passwords are displayed.
+3. Retrieve stored passwords - re-enter the master password and decrypted passwords are displayed.
 4. Generate a random strong password.
 5. Quit when done.
 
@@ -26,7 +26,7 @@ The encrypted passwords are stored in a local file. The master password hash and
 Requires Python 3.x
 Clone the repo
 ```
-git clone
+git clone https://github.com/satharv/Secure-Password-Manager.git
 ```
 
 Run:
