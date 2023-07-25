@@ -28,7 +28,6 @@ Clone the repo
 ```
 git clone https://github.com/satharv/Secure-Password-Manager.git
 ```
-
 Run:
 ```
 pip install -r requirements.txt
