@@ -41,7 +41,7 @@ python .\pass_manage.py
 ### Requirements
 The main dependencies are:
 
-- ```cryptography``` - Used for the Fernet symmetric encryption
+- ```cryptography``` -   Used for the Fernet symmetric encryption
 - ```getpass``` - For securely getting password input
 - ```hashlib``` - For hashing the master password
 - ```os``` - For file operations like checking file exists
