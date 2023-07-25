@@ -38,8 +38,14 @@ pip install -r requirements.txt
 The main dependencies are:
 
 - ```cryptography``` - Used for the Fernet symmetric encryption
+- ```getpass``` - For securely getting password input
+- ```hashlib``` - For hashing the master password
+- ```os``` - For file operations like checking file exists
+- ```random``` - For generating random passwords
+- ```string``` - For characters used in random password
+- ```sys``` - For exiting the program
 
 ## Contributing
-Contributions to add new features, enhance security, improve code quality are welcome!
+Contributions to adding new features, enhancing security, and improving code quality are welcome!
 
 Please submit a pull request with proposed changes.
